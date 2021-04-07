@@ -1,0 +1,57 @@
+import requests
+import time
+import pandas as pd
+
+
+def run_tests():
+    testFN = "test.csv"
+    print("Reading test cases from", testFN)
+    tests = pd.read_csv(testFN, encoding="utf-8")
+    # add columns for output
+    tests["Intent_From_Server"] = ""
+    tests["Intent_Score"] = ""
+    tests["Pass_Utt"] = ""
+    
+    for i in range(len(tests)):
+        convo = tests['text'][i]
+        expected = tests['category'][i]
+    
+        r = requests.get("URL to prediction"+convo)
+        normUtt = convo.strip();
+        if normUtt.endswith("?"):
+            normUtt = normUtt[0:len(normUtt)-1]
+        if normUtt.endswith("!"):
+            normUtt = normUtt[0:len(normUtt)-1]
+        if normUtt.endswith("/"):
+            normUtt = normUtt[0:len(normUtt)-1]
+        if normUtt.endswith("."):
+            normUtt = normUtt[0:len(normUtt)-1]
+        if normUtt.endswith(">"):
+            normUtt = normUtt[0:len(normUtt)-1]
+        normUtt = normUtt.replace(" ", "_")
+        normUtt = normUtt.replace("?", "#")
+        normUtt = normUtt.replace("\'", "'")
+        normUtt = normUtt.replace("/", "_")
+        normUtt = normUtt.replace('"', "'")
+        if len(normUtt) > 100:
+            normUtt = normUtt[0:100]
+        respFile  = open("details/"+expected+"_"+normUtt+".json", "w+", encoding="utf-8")
+        respFile.write(r.text)
+        respFile.close()
+
+        tests["Intent_From_Server"][i] = r.json().get("prediction").get("topIntent")
+        tests["Intent_Score"][i] = r.json().get("prediction").get("intents").get(tests["Intent_From_Server"][i]).get("score")
+        tests["Pass_Utt"][i] = "False"
+        if  tests["Intent_From_Server"][i] == expected:
+            tests["Pass_Utt"][i] = "True"
+        
+        if i % 5 == 0:
+            time.sleep(1)
+        
+        #if i > 1:
+        #    break
+        
+    tests.to_csv("test_results.csv", index=False)
+    print("Wrote test_results.csv")
+    
+run_tests()
