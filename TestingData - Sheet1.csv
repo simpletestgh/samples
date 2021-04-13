@@ -1,0 +1,161 @@
+Utterance,Intent
+give me the total of my checking,AccountBalance
+how much total money do I have in the bank,AccountBalance
+current balance on my mortgage,AccountBalance
+give the balance of checking,AccountBalance
+how do I see how much I owe on my credit card,AccountBalance
+How do I get balance info for my three saving accts?,AccountBalance
+Whatʻs the balance of my checking account,AccountBalance
+i need to find out how much is in savings,AccountBalance
+balance,AccountBalance
+how much is in my emergency savings account,AccountBalance
+whatʻs in my savings account,AccountBalance
+can you tell me how much I have in checking right now,AccountBalance
+I can't find how to see my account balances,AccountBalance
+does my checking account show a positive balance,AccountBalance
+what is there in the checking account,AccountBalance
+how much do I have in checking,AccountBalance
+how much money do I have?,AccountBalance
+tell me how much I have right now in savings,AccountBalance
+trying to figure out how much I still owe on my visa card,AccountBalance
+need to check the current balance of how much money I've got in my checking account please,AccountBalance
+make the paymen for my credit card,MakePayment
+Send 400 to amex from my other account,MakePayment
+I want to pay off my credit card in full,MakePayment
+i want to put 100 dollars on my credit card bill,MakePayment
+pay off the rest of the credit card balance,MakePayment
+help me pay credit card bill balance for this month,MakePayment
+pay minimum from checking for my credit card,MakePayment
+make payment of 100 to the credit card bill,MakePayment
+i want to pay off my amex card in full,MakePayment
+payoff the amex card for me,MakePayment
+make a payment please,MakePayment
+make 100 dollar payment toward the credit card,MakePayment
+Help me set up a payment for my visa credit card,MakePayment
+i need to pay my visa credit card bill of 100 dollars,MakePayment
+make a payment for the rest of the balance on my amex card,MakePayment
+make a payment of 100 dollars on my american express credit card,MakePayment
+could you send a 100 dollars paymentt to amex from account B,MakePayment
+the amex bill needs to be paid,MakePayment
+letʻs take care of the amex credit card bill,MakePayment
+I would like to pay my credit card bill,MakePayment
+help me repolacing a lost card,LostCard
+can I get a new card my dog ate mine last night,LostCard
+Whatʻs the phone number to freeze a card,LostCard
+if my card gets stolen what are the steps I should follow,LostCard
+I need to report a stolen card,LostCard
+my card was stolen and I need a replacement,LostCard
+i canʻt find my card,LostCard
+My card was stolen. What do I need to do,LostCard
+My card is lost. Please help me,LostCard
+my card was lost can i get another one in the branch,LostCard
+My card was stolen and I need to order a new one,LostCard
+I need to order a new card as my other one was stolen,LostCard
+My credit card was stolen yesterday,LostCard
+what is the first step I should take after my card has been stolen,LostCard
+"can you help me to replace a card? not sure where I put mine, been looking since yesterday",LostCard
+i canʻt find my card. Can you help?,LostCard
+Help. My card is stolen,LostCard
+I misplaced my card yesterday,LostCard
+Iʻve lost my card. What can I do abot that,LostCard
+I think someone stole my card because I canʻt find it,LostCard
+my propel card,CardChoice
+lost debit,CardChoice
+lost the checking card,CardChoice
+amex card,CardChoice
+my regular card,CardChoice
+Can not locate debit card,CardChoice
+it was my debit card,CardChoice
+my mastercard ,CardChoice
+the mastercard card,CardChoice
+the credit card,CardChoice
+propel cc,CardChoice
+referring to credit ,CardChoice
+american express card,CardChoice
+mastercard please,CardChoice
+the card linked to checking,CardChoice
+debit card,CardChoice
+the regular checking,CardChoice
+can't find my debit crd,CardChoice
+my visa,CardChoice
+use visa,CardChoice
+I have no Idea,LostDate
+this morning,LostDate
+not super sure,LostDate
+Thursday the 23rd,LostDate
+last Saturday,LostDate
+no idea,LostDate
+this afternoon ,LostDate
+it was just now,LostDate
+iʻm gonna say tuesday,LostDate
+last Monday the 18th,LostDate
+this happened just last night,LostDate
+last month I think,LostDate
+I lost it last Friday,LostDate
+December 5th,LostDate
+they just took it,LostDate
+just now,LostDate
+I lost it on March 2nd,LostDate
+I'm really not sure when,LostDate
+I'm not sure the exact date I lost it,LostDate
+some time last week,LostDate
+they took everything,LostStolen
+it was stolen,LostStolen
+some thief lifted it,LostStolen
+lost,LostStolen
+i donʻt know where it is,LostStolen
+i think i lost it the other day,LostStolen
+i think itʻs lost,LostStolen
+don't know if lost or stolen,LostStolen
+think i burned it in the trash,LostStolen
+it got swiped when i set it down,LostStolen
+lost it at a restaurant,LostStolen
+someone broke into my car,LostStolen
+itʻs just misplaced,LostStolen
+lost it somewhere,LostStolen
+it got lifted off of me,LostStolen
+iʻve lost it,LostStolen
+some kid ran off with it,LostStolen
+they robbed my house,LostStolen
+someone took it right after I used it at the cash register,LostStolen
+i was mugged,LostStolen
+I donʻt recognize that third one,ListChoice
+the one on the top,ListChoice
+I don't recognize that Shell Gas charge from March 17th,ListChoice
+ but I didn't make any of the others,ListChoice
+I recognize all but the last two,ListChoice
+3rd one,ListChoice
+I donʻt recognize he first two,ListChoice
+The third one,ListChoice
+i donʻt recognize number two,ListChoice
+the last one,ListChoice
+The first one was me,ListChoice
+the 2nd and 3rd one,ListChoice
+not familiar with the second line,ListChoice
+I didn't make any of those purchases,ListChoice
+I don't recognize the last two,ListChoice
+I did the third,ListChoice
+i didnʻt do any of those,ListChoice
+number 4 is not familiar at all,ListChoice
+The first transaction,ListChoice
+"I did go to Ann Taylor,",ListChoice
+what are some ways to raise my credit score,OutOfScope
+transfer the balance of my checking account,OutOfScope
+how do i balance a check book,OutOfScope
+credit cards offered,OutOfScope
+if my balance is low will there be a fee,OutOfScope
+can you help me if i lost my check book,OutOfScope
+how do you set up a checking account,OutOfScope
+how can i safeguard my credit score from dropping,OutOfScope
+show me a plan to help my credit score rating,OutOfScope
+I lost my keys,OutOfScope
+i donʻt see my acount on here,OutOfScope
+what can i pay with my credit card,OutOfScope
+i lost my check book,OutOfScope
+yesterday i paid my credit card why doesnʻt it show,OutOfScope
+set a warning for when my bank account starts running low,OutOfScope
+will getting a credit card help my credit score,OutOfScope
+when do i get paid,OutOfScope
+iʻm working on balancing my accounts out,OutOfScope
+i just received my pay,OutOfScope
+when am i paid and how often,OutOfScope
