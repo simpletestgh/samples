@@ -1,0 +1,21 @@
+Utterance,Intent,Source,Training/Test,Source,Notes
+my way2save savings account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+go to my everyday checking account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+can i see my platinum savings account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+i need to see my portfolio checking account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+the savings,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+iʻd like to see my savings,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+from emergency savings acct,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+use the savings account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+take a look at the savings,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+pull up the savings account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+pick savings,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+choose savings,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+need to see my preferred checking,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+my clear access banking acct,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+checking please,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+"no, make that checking  ",account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+use my checking account,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+pull up the checking acct,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+look at the checking,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow
+want the checking,account_choice,Synthetic,Test,User is specifying which account they want to look at. This can also reference which account they want to use for a payment,follow-up utt in Make Payment flow

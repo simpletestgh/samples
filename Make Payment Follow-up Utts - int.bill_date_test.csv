@@ -1,0 +1,21 @@
+Utterance,Intent,Source,Training/Test,Scope,Notes
+due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when is it due,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+due when,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+payment due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+billʻs due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when is the bill due,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+bill due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what's the due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what's the payment due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what's the normal due date on this card,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what's the due date on this card,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when is this card usually due,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what day of the month is this card payment due,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when is that due,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what date is payment due,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when do i need to pay this,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when is the monthly due date for this,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+whens the due date for this,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+what's the monthly due date,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow
+when is that payment due every month,bill_date,Synthetic,Test,User asks when the credit card bill is due,follow-up utt in Make Payment flow

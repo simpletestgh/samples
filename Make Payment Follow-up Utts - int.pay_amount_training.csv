@@ -1,0 +1,42 @@
+Utterance,Intent,Source,Training/Test,Scope,Notes
+100 dollars,pay_amount,Synthetic,Training ,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay the whole thing,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay all of it,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay it in full,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay 100 dollars toward the balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+letʻs do 100,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+can I pay $100 right now,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+iʻll pay 100 dollars,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+iʻll put $100 towards the balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+put 100 towards the total,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+i want to pay it off,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay the full thing,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+just pay 100 dollars,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+do $100,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+make it $100,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+make a 100 dollar payment,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay the $100,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay the balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay my $100 balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+i can only pay minimum?,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay off the remaining balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+the balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+all of it,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+the whole outstanding balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+only the minimum ,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+only the minimum outstanding balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+minimum balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+100 bucks,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+the balance of the card,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay it off in full,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay it off completely ,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+the total amount,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+letʻs do the whole balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay the whole balance 625.52,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+minimun 35$,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+pay 75$ on the balance,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+25 dollars the minimun,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+minimuim payment 30 bucks,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+half of minimum which is 12.50,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+"half of my balance, not half of minimum ",pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow
+only the minimum of 36.00,pay_amount,Synthetic,Training,User specifies how much they want to pay on a bill,follow-up utt in Make Payment flow

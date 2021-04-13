@@ -1,0 +1,21 @@
+Utterance,Intent,Source,Training/Test,Source,Notes
+can you set a reminder for me  ,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+Set an alarm or reminder for my next due date please,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+remind me next month please,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+can you remind me to pay it on wednesday,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+my memory isnʻt great can you remind me,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+remind me to pay it when itʻs due,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+remind me to pay it next week,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+remind me on Tuesday,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+i canʻt pay until next week can you remind me then,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+can you remind me to pay this next Friday,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+set a reminder to pay this next Thursday,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+can you set a calendar reminder for me to pay this on the 17th of every month,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+Want to set a reminder of when this is due each month,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+I want you to remind me to pay this on the 15th of the month,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+iʻm going to need a reminder please,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+can you remind me to pay it later,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+set reminder ,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+remind me next time,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+remind me to do it tomorrow,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow
+send me a reminder when itʻs due,set_reminder,Synthetic,Test,User asks to be reminded to pay the bill at a later date. They can specify a day but they do not have to,follow-up utt in Make Payment flow

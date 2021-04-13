@@ -1,0 +1,21 @@
+Utterance,Intent,Source,Training/Test,Scope,Notes
+text,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+email,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+e mail,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+text it,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+i like texts,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+email confirmation,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+confirmation via email,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+i would like an email,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+just send it as a text message,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+iʻd like an email please,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+via texts is better,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+text messages are best,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+I want texts,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+send me a text message,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+I do better with text,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+text works better,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+I want it via e mail,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+send me an email,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+email is preferred,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
+email me please,text_email,Synthetic,Test,User specifies whether they want a reminder in the form of a text message or an email,follow-up utt in Make Payment flow
